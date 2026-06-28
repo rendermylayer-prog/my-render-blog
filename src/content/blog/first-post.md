@@ -1,16 +1,45 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+title: 'Layer by Layer を開設しました'
+description: 'ブログを開設したきっかけと、これから書いていく内容について。'
+pubDate: '2026-06-28'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+今日から新しく、個人ブログ「Layer by Layer」を始動することにしました。
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+このブログは、日々のインプットとアウトプットを淡々と記録していくためのライフログ(学習記録)です。最初の投稿として、ブログを始めようと思ったきっかけや、これから発信していく内容についてまとめてみようと思います。
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+---
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+###  ブログを始めようと思ったきっかけ
+このブログを始めようと思ったきっかけは3つあります。
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+1つ目は、**読書や文章を書くことの大切さ、その方法について書かれた本を読んだこと**です。これらの本には、「インプットした知識を自分のものにし、活用できるようにするためには、アウトプットをする必要がある」と書かれていました。これまでの読書などのインプットを振り返って、確かに覚えてないなぁと感じています。そしてアウトプットを試してみようと思ったことです。
+
+2つ目は、エンジニアの世界で昔から言われている**エンジニアはアウトプットが大切という文化**です。情報工学を学ぶ1人として、日々の学びや試行錯誤をただ頭の中に留めておくのではなく、いつでも振り替えれる形に残しておきたいという思いがずっとありました。
+
+3つ目は、**自分の中だけで完結させる記録の難しさ**です。これまで非公開のメモなどに記録しようとしていたのですが、自分しか見えていないと思うとどうしても記述が適当になったり、なかなか続かなかったりしました。
+
+これらの理由から、あえて「ブログ」という形で外に向けて発信する場所を作ることで、ほどよい緊張感を持ちながら、日々の学びや感じたことを楽しく積み上げていきたいと考えています。
+
+---
+
+### これから書いていくこと
+
+ブログのタイトルである「Layer by Layer」の通り、自分という人間の「レイヤー(層)」を積み上げていくために日々考えたことや感じが事を記録してきます。主に以下の3つのテーマについて書いていきます。
+
+#### 1. 画面に向き合う時間(研究・技術)
+主に機械学習(Machine Learning)やコンピュータビジョン (Computer Vision; CV)、および**拡散モデル(Diffusion Models)**を用いた画像・動画生成技術の調査や実装のログです。論文を読んで試したことや、エラーと格闘した備忘録などを残していきます。
+
+#### 2. web開発へのアプローチ(ブログの成長)
+このブログ自体のカスタマイズや機能追加を通して、現代的なweb技術に1から触れて学んでいきます。将来的にはFastAPIやReactなどの技術スタックを組み合わせた個人開発のプロセスもアウトプットしていく予定です。
+
+#### 3. 本を開く時間、ただ生活する時間(ライフログ)
+技術書に限らず、日々開いた小説やビジネス書などの読書記録、日々の何気ない日常の雑感などを関心の赴くままに記述します。
+
+---
+
+### なぜ匿名で書くのか
+現実の所属や本名から切り離された「サンドボックス(実験場)」を持つことで、初歩的なエラーのメモから他愛のない日記まで、周囲の目を気にせずに率直にアウトプットを積み重ねていくためです。(ただ身近な人に見られるのが恥ずかしいだけです///)
+
+これから、日々の思考の断片を少しずつこの場所に積層させて行きたいと思います。どうぞよろしくお願いします。
